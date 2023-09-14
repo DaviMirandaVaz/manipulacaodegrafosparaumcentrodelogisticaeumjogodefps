@@ -5,7 +5,7 @@
 
 /*
 	Trabalho realizado por:Davi Miranda Vaz
-	4?eiodo bcc 
+	4°periodo bcc 
 	RA:202111000029
 */
 
